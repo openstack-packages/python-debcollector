@@ -1,0 +1,7 @@
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Mon, 29 Jun 2015 00:43:11 +0200
+Reviewed-on: https://review.gerrithub.io/237934
+Project: openstack-packages/python-debtcollector
+Branch: refs/heads/rpm-master
