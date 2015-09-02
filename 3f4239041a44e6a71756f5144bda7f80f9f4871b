@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_60ed6bb7",
+        "filename": "python-debtcollector.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2015-09-02T09:56:49Z",
+      "side": 1,
+      "message": "Unless I missed something, we don\u0027t need epoch and I\u0027d rather avoid it if possible.",
+      "revId": "3f4239041a44e6a71756f5144bda7f80f9f4871b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
