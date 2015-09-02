@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_993ae696",
+        "filename": "python-debtcollector.spec",
+        "patchSetId": 3
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2015-09-02T18:51:52Z",
+      "side": 1,
+      "message": "Provides/obsoletes have disappeared",
+      "revId": "e6c310252b1b602a7690d4123ce23920d2c979e7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
