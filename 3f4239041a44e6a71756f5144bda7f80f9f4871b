@@ -16,6 +16,23 @@
       "revId": "3f4239041a44e6a71756f5144bda7f80f9f4871b",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad9bd40_409307fa",
+        "filename": "python-debtcollector.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 1002924
+      },
+      "writtenOn": "2015-09-02T10:36:27Z",
+      "side": 1,
+      "message": "did I miss something? I thought we\u0027re still based on upstream_version set somewhere outside the rpm, right?",
+      "revId": "3f4239041a44e6a71756f5144bda7f80f9f4871b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
