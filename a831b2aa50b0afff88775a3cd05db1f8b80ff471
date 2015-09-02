@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad9bd40_e32345a5",
+        "filename": "python-debtcollector.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 1002601
+      },
+      "writtenOn": "2015-09-02T10:58:16Z",
+      "side": 1,
+      "message": "epoch is still referenced",
+      "revId": "a831b2aa50b0afff88775a3cd05db1f8b80ff471",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
