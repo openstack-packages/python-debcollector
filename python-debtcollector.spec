@@ -67,23 +67,6 @@ Requires:   python-testscenarios
 Requires:   python-testtools
 Requires:   python-fixtures
 
-%description -n python-%{pypi_name}-tests
-Test subpackage for the debtcollector module
-
-%if 0%{?with_python3}
-%package -n python3-%{pypi_name}
-Summary:     A collection of Python deprecation patterns and strategies
-%{?python_provide:%python_provide python3-%{pypi_name}}
-
-BuildRequires: python3-devel
-BuildRequires: python3-setuptools
-BuildRequires: python3-pbr
-
-Requires:    python3-babel
-Requires:    python3-pbr
-Requires:    python3-six
-Requires:    python3-wrapt
-
 %description -n python3-%{pypi_name}
 It is a collection of functions/decorators which is used to signal a user when
 *  a method (static method, class method, or regular instance method) or a class
@@ -140,8 +123,5 @@ rm -fr doc/build/html/.buildinfo
 %{python3_sitelib}/%{pypi_name}*.egg-info
 %exclude %{python2_sitelib}/%{pypi_name}/tests
 %endif
-
-%files -n python-%{pypi_name}-tests
-%{python2_sitelib}/%{pypi_name}/tests
 
 %changelog
