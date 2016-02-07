@@ -1,0 +1,8 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Sun, 07 Feb 2016 14:05:49 +0100
+Reviewed-on: https://review.gerrithub.io/262276
+Project: openstack-packages/python-debtcollector
+Branch: refs/heads/rpm-master
